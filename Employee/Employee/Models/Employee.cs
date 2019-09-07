@@ -16,7 +16,6 @@
         [Required]
        
         public string Birthday { get; set; }
-        [Required]
 
         public string Recomendation { get; set; }
 
